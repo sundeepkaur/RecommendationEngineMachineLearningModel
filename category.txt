@@ -1,0 +1,4 @@
+Team Name - Seekers
+Project - Recommendation model using collaborative filtering
+Team members - Alisha Sharma, Sundeep Kaur, Treesa Chacko, Raminderjit Kaur, Komalpreet Kaur
+category : Machine learning - concept of content based filtering approach, python programming language, jupyter lab notebook - installed on local machine

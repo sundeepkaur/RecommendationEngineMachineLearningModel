@@ -1,0 +1,15 @@
+This is seekers group students of ITS and ESDV Humber north campus presenting Final Semester course Capstone project which is a Job o Recommendation engine.
+Our project sponsors are Aditya Subramaniam          Yasmin Bakhtiari                Nahal Kazemian from company Job-O
+ and our mentor for project is professor Orren Jonhson from faculty of humber college
+And seekers group team members are: Alisha, Sundeep, Komalpreet, Treesa and Raminderjit students of humber college
+
+This project intends to create recommendation engine that can Recommend best jobs to employees based on job’s skill rating, 
+distance of potential employee from work location and either way around as well that is to recommend best employees to a company on the basis of employee’s skills,
+ratings, previous experience using machine learning concepts
+
+Tools and Libraries 
+	Jupyter Lab installed on local machine and using Python programming language
+
+
+Content Based recommendation model Theory
+A content-based recommender model works with data that the user provides. Based on that data, a user profile is generated, which is then used to make suggestions to the user. 
