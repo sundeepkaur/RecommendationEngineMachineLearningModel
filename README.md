@@ -1,5 +1,7 @@
 # RecommendationEngineMachineLearningModel
  
+###### On Youtube : project video link: https://www.youtube.com/watch?v=towQBkVPLY4&t=179s 
+###### On Cloud : project video link: https://wordpress-404624-1273723.cloudwaysapps.com/index.php/movies/recommendation-model-using-content-based-filtering/
 ######  Project Recommendation engines Overview & Scope is as following:
 
 This project intends to create recommendation engine that can Recommend best jobs to employees based on job’s skill rating, distance of potential employee from work location and either way around as well that is to recommend best employees to a company on the basis of employee’s skills, ratings, previous experience using machine learning concepts
